@@ -3,4 +3,5 @@
 import torch
 
 # I=torch.eye()
-print(__file__)
+for i in range(10):
+	print("hello")
